@@ -5,7 +5,7 @@ A visual exploration tool for image similarity. Drop in an image and watch the g
 The idea is to model how associative memory works: one image leads to another by visual resemblance, forming a web you can wander through. There is no search bar, no pagination. You navigate by clicking.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78097c4f-68cc-499c-9278-ac72de37f53d" width="600" alt="show">
+  <img src="https://github.com/user-attachments/assets/fd945d88-753d-4a36-b274-52771373e9b3" width="800" alt="show">
 </p>
 
 ## How it works
